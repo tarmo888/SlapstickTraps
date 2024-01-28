@@ -1,26 +1,20 @@
-# Unreal Engine 5 2D Side Scroller Blueprint Template
-A basic 2D side scroller blueprint template for Unreal Engine 5.
-**This template requires Unreal Engine 5.1 or higher, however 5.3 or higher is recommended to prevent bugs with the orthographic camera**
+**Slapstick Traps** is a rage game, which illustrates my experience with learning **Unreal Engine 5** so far - there has been bear traps at every corner. The key is to learn from mistakes and try to not repeat them, you should get better the more you practice. Your failures might make you swear, but others laugh. It's meant to be more fun to watch than play.
 
-![template](https://github.com/CobraCodeDev/TP_2DSideScrollerBP/assets/141534668/5bd1b1c9-5468-4de4-956f-4f688375023a)
+This game was made during **GGJ 2024**, which theme was "Make Me Laugh".
+https://youtu.be/_xPgv9ZAQSo
 
-## Advanced Templates
-![TP_ZDSideScrollerBP](https://github.com/CobraCodeDev/TP_2DSideScrollerBP/assets/141534668/cd6b2446-cd31-4964-81db-496b1f7d86d8)
-![TP_ZDTopDownBP](https://github.com/CobraCodeDev/TP_2DSideScrollerBP/assets/141534668/29672976-2ae4-4ebd-ac14-b94a21111117)
+# Similar games
+Cat Mario and Trap Adventure.
 
-As a patron you get access to the advanced 2D/3D hybrid version of this template and also Top Down 2D template.
-Both of these use the free PaperZD plugin which adds Animation Blueprint and Anim Notify support for a better workflow.
+# Controls
+A/D or Left/Right for movement, Space for jumping and double-Space for double-jumping (duh). There is a twist at the end of the level.
 
-https://www.patreon.com/collection/111760
-
-## How to Install
-Click on Code and then Download ZIP to download the template.
-![image](https://github.com/CobraCodeDev/TP_2DSideScrollerBP/assets/141534668/fbb64928-0b9c-4eeb-ad91-5b8910173fff)
-
-After that follow the simple instructions in this document:
-https://docs.google.com/document/d/1VhYKdyyU42LH5tdueSkXBGg_IOoFlG0tqiea0vXc-6k/edit?usp=sharing
-
-## Art Assets
-Huge thanks to Ansimuz for putting out these art assets as Public Domain!
-
+# Assets used
+http://tinyurl.com/Unreal2DTemplates
 https://ansimuz.itch.io/sunny-land-pixel-game-art
+https://freesound.org/
+
+# Team members
+Tarmo Annus - programming
+Henri Rand - level design
+Sander Prisk - sound design
