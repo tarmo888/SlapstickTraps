@@ -10,9 +10,9 @@ Cat Mario and Trap Adventure.
 A/D or Left/Right for movement, Space for jumping and double-Space for double-jumping (duh). There is a twist at the end of the level.
 
 # Assets used
-http://tinyurl.com/Unreal2DTemplates
-https://ansimuz.itch.io/sunny-land-pixel-game-art
-https://freesound.org/
+* http://tinyurl.com/Unreal2DTemplates
+* https://ansimuz.itch.io/sunny-land-pixel-game-art
+* https://freesound.org/
 
 # Team members
 * Tarmo Annus - programming
