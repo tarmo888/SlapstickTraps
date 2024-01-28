@@ -15,6 +15,6 @@ https://ansimuz.itch.io/sunny-land-pixel-game-art
 https://freesound.org/
 
 # Team members
-Tarmo Annus - programming
-Henri Rand - level design
-Sander Prisk - sound design
+* Tarmo Annus - programming
+* Henri Rand - level design
+* Sander Prisk - sound design
