@@ -31,7 +31,7 @@ Built with Unreal Engine 5.9 using Paper2D and Unreal Motion Graphics (UMG). Win
 For Windows, download Slapstick-build.zip from GitHub, extract the zip file and execute Slapstick.exe
 For browser (preferably Chrome), download Slapstick-play.zip from GitHub, extract the zip file and execute Play_Slapstick.bat or play-slapstick.sh
 
-If your browser can't run the web version, you need enable one of these flags (use at your own risk):
+If your browser can't run the web version, you need to enable one of these flags (use at your own risk):
 ```
 chrome://flags/#ignore-gpu-blocklist
 chrome://flags/#enable-unsafe-webgpu
